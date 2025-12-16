@@ -1,0 +1,19 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/29.0.3 Chrome/140.0.7339.249 Electron/38.7.0 Safari/537.36" version="29.0.3">
+  <diagram name="Страница-1" id="cVTFwYrScLerQwTULfYL">
+    <mxGraphModel dx="1416" dy="1203" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="S4J9uXWnXqj2brmg1tm0-1" value="1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=90;sketch=1;curveFitting=1;jiggle=2;strokeColor=light-dark(#D2C7AC,#D2C7AC);fillColor=light-dark(#D2C7AC,#D2C7AC);fillStyle=hachure;convertToSvg=0;textDirection=ltr;horizontal=0;fontStyle=1;fontSize=40;" vertex="1" parent="1">
+          <mxGeometry x="295" y="105" width="160" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="S4J9uXWnXqj2brmg1tm0-5" value="2" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=90;sketch=1;curveFitting=1;jiggle=2;strokeColor=light-dark(#D2C7AC,#D2C7AC);fillColor=light-dark(#D2C7AC,#D2C7AC);fillStyle=hachure;convertToSvg=0;textDirection=ltr;horizontal=0;fontStyle=1;fontSize=40;" vertex="1" parent="1">
+          <mxGeometry x="295" y="340" width="160" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="S4J9uXWnXqj2brmg1tm0-6" value="3" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=90;sketch=1;curveFitting=1;jiggle=2;strokeColor=light-dark(#D2C7AC,#D2C7AC);fillColor=light-dark(#D2C7AC,#D2C7AC);fillStyle=hachure;convertToSvg=0;textDirection=ltr;horizontal=0;fontStyle=1;fontSize=40;" vertex="1" parent="1">
+          <mxGeometry x="300" y="585" width="160" height="110" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
